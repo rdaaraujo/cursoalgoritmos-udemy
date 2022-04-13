@@ -1,2 +1,2 @@
 # cursoemvideo-html5
- Material do curso de HTML5 e CSS3 do Curso em Vídeo
+ Material do curso de Algoritmos e Lógica de Programação da Udemy.
